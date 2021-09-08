@@ -1,2 +1,2 @@
-# MultiLayer_Perceptron-Tensorflow
+# MultiLayer-Perceptron-Tensorflow
 Implemented different multilayer perceptron architectures on MNSIT Dataset using Tensorflow
